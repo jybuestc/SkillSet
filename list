@@ -1,9 +1,9 @@
 Primary Skill
 - Testing methodology
-  - Popular process
-  - in EMC
-  - Tools
-  - Test Plan, Test Design
+     	- Popular process
+  		- in EMC
+  		- Tools
+  		- Test Plan, Test Design
 - Program
   - Do LeetCode testing twice
 - Algorithm Problem Solving 
@@ -12,6 +12,8 @@ Primary Skill
   - map
   - hash
 - Innovation
+- Docker
+-OpenStack
 
 Secondary Skill
 - OpenStack
